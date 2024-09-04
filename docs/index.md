@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Naomi Kirimi"
+  text: "Graduate Teaching Assistant"
+  tagline: "Portfolio set up for Prep 1"
   actions:
     - theme: brand
       text: Template Repository
       link: "https://github.com/61040-fa24/vitepress-template"
     - theme: alt
       text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+      link: "https://61040-fa24.github.io/prep1_naomi_portfolio/"
 
 features:
   - title: Blogs
